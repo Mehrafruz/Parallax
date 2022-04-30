@@ -7,6 +7,8 @@
 
 import UIKit
 
+/// Пример применения
+/// Cмотрите makeParallax
 class ViewController: UIViewController {
     
     lazy var tableView: UITableView = {
