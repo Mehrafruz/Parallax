@@ -25,7 +25,7 @@
 		17A9DFE527FDB41B00E492AB /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17A9DFE427FDB41B00E492AB /* TableViewCell.swift */; };
 		17A9DFE727FDD0F900E492AB /* Sequence+Sorting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17A9DFE627FDD0F900E492AB /* Sequence+Sorting.swift */; };
 		17A9DFF127FEBE0100E492AB /* StatusHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17A9DFF027FEBE0100E492AB /* StatusHeaderView.swift */; };
-		17A9DFFA27FED6B800E492AB /* CGFloat+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17A9DFF927FED6B800E492AB /* CGFloat+Extension.swift */; };
+		EF8D12622819EA32007CED1E /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF8D12612819EA32007CED1E /* UIView+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,7 +49,7 @@
 		17A9DFE427FDB41B00E492AB /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		17A9DFE627FDD0F900E492AB /* Sequence+Sorting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sequence+Sorting.swift"; sourceTree = "<group>"; };
 		17A9DFF027FEBE0100E492AB /* StatusHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusHeaderView.swift; sourceTree = "<group>"; };
-		17A9DFF927FED6B800E492AB /* CGFloat+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGFloat+Extension.swift"; sourceTree = "<group>"; };
+		EF8D12612819EA32007CED1E /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,8 +130,8 @@
 			isa = PBXGroup;
 			children = (
 				17A9DFE627FDD0F900E492AB /* Sequence+Sorting.swift */,
-				17A9DFF927FED6B800E492AB /* CGFloat+Extension.swift */,
 				177E1227280C8D9B002429C0 /* UIColor+Extension.swift */,
+				EF8D12612819EA32007CED1E /* UIView+Extension.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -223,7 +223,7 @@
 				17A9DFE027FDB2EE00E492AB /* ParallaxItemTransformer.swift in Sources */,
 				17A9DFE327FDB2EE00E492AB /* ParallaxItem.swift in Sources */,
 				17A9DFE127FDB2EE00E492AB /* ParallaxItemContainer.swift in Sources */,
-				17A9DFFA27FED6B800E492AB /* CGFloat+Extension.swift in Sources */,
+				EF8D12622819EA32007CED1E /* UIView+Extension.swift in Sources */,
 				17A9DFDF27FDB2EE00E492AB /* Parallax.swift in Sources */,
 				17A9DFE527FDB41B00E492AB /* TableViewCell.swift in Sources */,
 				17A9DFC827FDB29800E492AB /* ViewController.swift in Sources */,

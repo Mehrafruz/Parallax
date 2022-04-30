@@ -63,7 +63,6 @@ public class StickerSliderView: UIView {
     }
     
     private func setupConstraints() {
-        
         addSubview(mainStackView)
         
         NSLayoutConstraint.activate([
