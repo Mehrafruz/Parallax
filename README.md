@@ -1,2 +1,7 @@
 # Parallax
-Механизм паралакса на UIKit
+Механизм паралакса
+
+Технологии:
+ UIKIt 
+ NSLayoutConstraint
+ 
